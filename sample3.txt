@@ -1,2 +1,4 @@
 addig fresh first line to sample3.txt from master
 seen first line on github, adding 2nd line on sample3.txt github
+hello from bugfix branch, on sample3.txt from local
+it works, updating agin from github
